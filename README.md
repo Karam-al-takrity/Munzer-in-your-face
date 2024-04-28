@@ -11,6 +11,10 @@
 
 Munzer In Your Face, is a VSCode extension that shows you Mr. Munzer 'Munzer Faces' that correlate to the number of errors in your code!
 
+![Loading...](https://github.com/Karam-al-takrity/Munzer-in-your-face/blob/main/assets/smallBanner.png)
+
+![Loading...](https://github.com/Karam-al-takrity/Munzer-in-your-face/blob/main/assets/Preview-Vid.gif?raw=true)
+
 <!-- - Check it out on YouTube [here](https://www.youtube.com/watch?v=BuejUOFOodw) -->
 
 Check out [Munzer In Your Face](https://github.com/Karam-al-takrity/Munzer-in-your-face/) which is based on doom 'Ouch Faces'
