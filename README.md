@@ -19,4 +19,4 @@ Check out [Munzer In Your Face](https://github.com/Karam-al-takrity/Munzer-in-yo
 
 ---
 
-Incredibly In Your Face is developed by [Karam-Al-Takrity](https://github.com/Karam-al-takrity)
+Munzer In Your Face is developed by [Karam-Al-Takrity](https://github.com/Karam-al-takrity)
