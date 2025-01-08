@@ -145,22 +145,22 @@ class CustomSidebarViewProvider implements vscode.WebviewViewProvider {
   }
 
   private getHtmlContent0(webview: vscode.Webview): string {
-    const face0 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible0.png"));
+    const face0 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer0.png"));
     return getHtml(face0);
   }
 
   private getHtmlContent1(webview: vscode.Webview): string {
-    const face1 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible1.png"));
+    const face1 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer1.png"));
     return getHtml(face1);
   }
 
   private getHtmlContent2(webview: vscode.Webview): string {
-    const face2 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible2.png"));
+    const face2 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer2.png"));
     return getHtml(face2);
   }
 
   private getHtmlContent3(webview: vscode.Webview): string {
-    const face3 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible3.png"));
+    const face3 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer3.png"));
     return getHtml(face3);
   }
 }

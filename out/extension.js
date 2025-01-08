@@ -112,19 +112,19 @@ class CustomSidebarViewProvider {
         }, 1000);
     }
     getHtmlContent0(webview) {
-        const face0 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible0.png"));
+        const face0 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer0.png"));
         return getHtml(face0);
     }
     getHtmlContent1(webview) {
-        const face1 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible1.png"));
+        const face1 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer1.png"));
         return getHtml(face1);
     }
     getHtmlContent2(webview) {
-        const face2 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible2.png"));
+        const face2 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer2.png"));
         return getHtml(face2);
     }
     getHtmlContent3(webview) {
-        const face3 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "incredible3.png"));
+        const face3 = webview.asWebviewUri(vscode.Uri.joinPath(this._extensionUri, "assets", "munzer3.png"));
         return getHtml(face3);
     }
 }
